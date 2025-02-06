@@ -6906,7 +6906,7 @@
   "42220": {
     "name": "Celo",
     "description": "Mobile-first L2 scaling protocol.",
-    "logo": "https://uploads-ssl.webflow.com/644a5b7efad46e3cd70deafb/65afe53649ca5bd7e40046c8_celo.png",
+    "logo": "https://cdn.prod.website-files.com/644a5b7efad46e3cd70deafb/67044737f3ca24e9c6b9fad8_Celo_Symbol_CMYK_ProsperityYellow.png",
     "ecosystem": "Ethereum",
     "isTestnet": false,
     "layer": 2,
@@ -6914,8 +6914,8 @@
     "website": "https://celo.org/",
     "explorers": [
       {
-        "url": "https://explorer.celo.org/mainnet/",
-        "hostedBy": "self"
+        "url": "https://celo.blockscout.com/",
+        "hostedBy": "blockscout"
       }
     ]
   },
@@ -9351,6 +9351,38 @@
       }
     ]
   },
+  "1888108590": {
+    "name": "Prom",
+    "description": "Modular ZkEVM L2 enabling interoperability across various chains, both EVM and non-EVM compatible networks.",
+    "logo": "https://uploads-ssl.webflow.com/644a5b7efad46e3cd70deafb/6696c29898ad38ca053ffc46_Prom.png",
+    "ecosystem": "Polygon",
+    "isTestnet": true,
+    "layer": 2,
+    "rollupType": null,
+    "website": "https://prom.io/",
+    "explorers": [
+      {
+        "url": "https://prom-devnet-blockscout.eu-north-2.gateway.fm/",
+        "hostedBy": "gateway"
+      }
+    ]
+  },
+  "1279132": {
+    "name": "Prom",
+    "description": "Modular ZkEVM L2 enabling interoperability across various chains, both EVM and non-EVM compatible networks.",
+    "logo": "https://uploads-ssl.webflow.com/644a5b7efad46e3cd70deafb/6696c29898ad38ca053ffc46_Prom.png",
+    "ecosystem": "Polygon",
+    "isTestnet": false,
+    "layer": 2,
+    "rollupType": null,
+    "website": "https://prom.io/",
+    "explorers": [
+      {
+        "url": "https://prom-blockscout.eu-north-2.gateway.fm/",
+        "hostedBy": "gateway"
+      }
+    ]
+  },
   "123420111": {
     "name": "Gelato - OP Celestia Raspberry",
     "description": "Rollup-as-a-Service Platform. Launch enterprise-grade L2 & L3 chains integrated with industry-standard Web3 services.",
@@ -9490,8 +9522,8 @@
     "website": "https://lumia.org/",
     "explorers": [
       {
-        "url": "https://explorer.lumia.org/",
-        "hostedBy": "self"
+        "url": "https://prism-blockscout.eu-north-2.gateway.fm/",
+        "hostedBy": "gateway"
       }
     ]
   },
@@ -9651,7 +9683,7 @@
     "explorers": [
       {
         "url": "https://witnesschain-blockscout.eu-north-2.gateway.fm/",
-        "hostedBy": "self"
+        "hostedBy": "gateway"
       }
     ]
   },
@@ -9691,15 +9723,15 @@
     "name": "Humanity Protocol",
     "description": "Human-centric blockchain to empower the future of digital identity using Proof-of-Humanity technology.",
     "logo": "https://cdn.prod.website-files.com/644a5b7efad46e3cd70deafb/670e62f9b6a710a19f4d949b_Humanity-Protocol.png",
-    "ecosystem": "Ethereum",
+    "ecosystem": "Polygon",
     "isTestnet": true,
     "layer": 2,
     "rollupType": "zk",
     "website": "https://www.humanity.org/",
     "explorers": [
       {
-        "url": "https://explorer.testnet.humanity.org/",
-        "hostedBy": "self"
+        "url": "https://hp-testnet-blockscout.eu-north-2.gateway.fm/",
+        "hostedBy": "gateway"
       }
     ]
   },
@@ -9714,11 +9746,12 @@
     "website": "https://lumia.org/",
     "explorers": [
       {
-        "url": "https://testnet-explorer.lumia.org/",
-        "hostedBy": "self"
+        "url": "https://lumia-testnet-blockscout.eu-north-2.gateway.fm/",
+        "hostedBy": "gateway"
       }
     ]
   },
+
   "2046399126": {
     "name": "Skale",
     "description": "Multichain network composed of an unlimited number high-performance Ethereum Blockchains.",
